@@ -1,4 +1,29 @@
-## Welcome to GitHub Pages
+# About Me
+
+**Present Post:** D.S. Kothari Post Doctoral Fellow (June 2019 to present)
+
+**Past Position:** Post Doctoral Fellow, Physical Research Laboratory, Ahmedabad, Gujarat, India (2017-2019)
+
+**PhD:** IIT-Gn, Gandhinagar, Gujarat, India
+
+## Research Interests
+- Cosmology 
+- Gravitational  waves
+- Astrophysical Plasma 
+- Magnetohydrodynamics
+- Chiral Plasma
+- Magnetogenesis 
+- Reionization and Recombination
+- First Star formation
+- Dark matter
+
+[My Personal Webpage](https://sites.google.com/view/aruncosmo/home)
+
+[ORCID](https://orcid.org/0000-0002-1334-043X)
+
+[My Blog](https://arunsinp.wordpress.com/)
+
+[Inspire Hep](https://inspirehep.net/authors/1356925#with-citation-summary)
 
 You can use the [editor on GitHub](https://github.com/arunsinp/arun-pandey.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
